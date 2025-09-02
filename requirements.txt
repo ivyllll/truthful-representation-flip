@@ -1,0 +1,13 @@
+torch
+transformers>=4.41.0
+accelerate
+huggingface_hub
+tqdm
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+umap-learn
+sae-lens
+

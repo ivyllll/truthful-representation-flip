@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite our paper."
+title: "When Truthful Representations Flip Under Deceptive Instructions?"
+authors:
+  - family-names: Long
+    given-names: Xianxuan
+  - family-names: Fu
+    given-names: Yao
+  - family-names: Li
+    given-names: Runchao
+  - family-names: Sheng
+    given-names: Mu
+  - family-names: Yu
+    given-names: Haotian
+  - family-names: Han
+    given-names: Xiaotian
+  - family-names: Li
+    given-names: Pan
+version: 1.0.0
+date-released: 2025-08-01
+identifiers:
+  - type: doi
+    value: 10.48550/arXiv.2507.22149
+repository-code: "https://github.com/<org-or-user>/truthful-representation-flip"
+url: "https://www.arxiv.org/pdf/2507.22149"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Long
+      given-names: Xianxuan
+    - family-names: Fu
+      given-names: Yao
+    - family-names: Li
+      given-names: Runchao
+    - family-names: Sheng
+      given-names: Mu
+    - family-names: Yu
+      given-names: Haotian
+    - family-names: Han
+      given-names: Xiaotian
+    - family-names: Li
+      given-names: Pan
+  title: "When Truthful Representations Flip Under Deceptive Instructions?"
+  journal: "EMNLP"
+  year: 2025
+  doi: 10.48550/arXiv.2507.22149
+

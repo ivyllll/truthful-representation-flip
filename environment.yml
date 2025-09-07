@@ -1,4 +1,4 @@
-name: xianxuan_sae
+name: truth_flip
 channels:
   - conda-forge
   - defaults

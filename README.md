@@ -20,7 +20,7 @@ pip install -r requirements.txt
 Option B (conda):
 ```bash
 conda env create -f environment.yml
-conda activate xianxuan_sae
+conda activate truth_flip
 ```
 
 Authenticate to Hugging Face (for gated models):
